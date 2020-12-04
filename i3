@@ -188,4 +188,3 @@ new_window 1pixel
 
 bindsym $mod+Tab workspace back_and_forth
 #bindsym $mod+Tab workspace next
-hi
